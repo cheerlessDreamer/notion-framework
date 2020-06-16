@@ -1,2 +1,2 @@
 # notion-framework
-A responsive CSS framework based on the aesthetic of the Notion.so platform.
+A responsive front-end CSS framework based on the Notion.so platform.
